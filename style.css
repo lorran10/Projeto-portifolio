@@ -82,14 +82,6 @@ padding-top:100px;
 
 
 
-.conhecimentos{
-  background-color: black;
-  justify-content: center;
-  padding-top: 100px;
-    
-
-}
-
 .conhecimentos h1{
   display: flex;
     justify-content: center;
@@ -101,6 +93,14 @@ padding-top:100px;
 
   
 }
+.conhecimentos{
+  background-color: black;
+  justify-content: center;
+  padding-top: 100px;
+    
+
+}
+
 
 .html {
     padding: 10px;
@@ -216,39 +216,21 @@ padding-top:100px;
    justify-content: space-between;
    
 }
+  
 
 
 .quem-sou h1{
 font-size: 20px;
 
 }
-
-
 .projetos h1{
-  font-size: 20px;
+
+font-size: 20px;
 
 }
+  
+   
 
-
-.carousel-inner img{ 
-  max-width:200px; 
-  max-height:200px; 
-  width: auto; 
-  height: auto;  
-   justify-content: center;
-   }
-
-
-   .projetos carousel slide{
-
-max-width:170px; 
-  max-height:170px; 
-  width: auto; 
-  height: auto;  
-   justify-content: center;
-   }
-
- 
 p {
     display: grid;
     font-family: Arial, Helvetica, sans-serif;
@@ -380,18 +362,18 @@ p {
 
 @media screen and (max-width:500px){
 .menu button  {
-  display:inline;
-  padding: 5px 5px 2px 2px;
+ 
+padding:10px 6px 1px ;
   font-size:10px;
   justify-content: space-between;
-   
-  
+  margin: 0 15px; 
+    padding-top: 0px;
 }
 
     
 
 .quem-sou h1{
-font-size: 10px;
+font-size: 20px;
 
 }
 
@@ -442,7 +424,7 @@ p {
     display: flex;
     flex-wrap: wrap;
     margin-left: 190px;
-    margin-top: -170px;
+    margin-top: -140px;
 
 }
 .conhecimentos{

@@ -1,4 +1,4 @@
-# Prazer chamo loran!!
+# Prazer me chamo loran!!
 - 💻 Desenvolvedor de Sofware
 - 🔍 Estudando React
 <div align="center">
